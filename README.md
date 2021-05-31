@@ -20,13 +20,13 @@
 <a href="https://linkedin.com/in/probhakar" target="blank"><img align="center" src=https://epsi95.github.io/my-website/images/linkedin.png" alt="probhakar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6660638/epsi95" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111628.png" alt="6660638/epsi95" height="30" width="40" /></a>
   
-<a href="https://instagram.com/epsilon_95" target="blank"><img align="center" src=https://epsi95.github.io/my-website/images/instagram.png" alt="epsilon_95" height="30" width="40" /></a>
+<a href="https://instagram.com/epsilon_95" target="blank"><img align="center" src=https://epsi95.github.io/my-website/images/instagram.png" alt="epsilon_95" height="30" width="40" /></a></a>
   
-<a href="https://dribbble.com/epsi95" target="blank"><img align="center" src="https://epsi95.github.io/my-website/images/basketball.png" alt="epsi95" height="30" width="40" /></a>
+<a href="https://dribbble.com/epsi95" target="blank"><img align="center" src="https://epsi95.github.io/my-website/images/basketball.png" alt="epsi95" height="30" width="40" /></a></a>
   
-<a href="https://medium.com/@probhakar-95" target="blank"><img align="center" src="https://epsi95.github.io/my-website/images/medium.png" alt="@probhakar-95" height="30" width="40" /></a>
+<a href="https://medium.com/@probhakar-95" target="blank"><img align="center" src="https://epsi95.github.io/my-website/images/medium.png" alt="@probhakar-95" height="30" width="40" /></a></a>
   
-<a href="https://www.youtube.com/c/uc4apgv15_ba9qgtafhzgbaw" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="uc4apgv15_ba9qgtafhzgbaw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc4apgv15_ba9qgtafhzgbaw" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" alt="uc4apgv15_ba9qgtafhzgbaw" height="30" width="40" /></a></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
