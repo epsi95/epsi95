@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Probhakar</h1>
+<a href="https://epsi95.github.io/my-website/">connect</a>
 <h3 align="center">Love Backend design aspects- servers, databases and integrate them with beautiful Frontend UI</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/probhakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/probhakar/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/6660638/epsi95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6660638/epsi95" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/epsilon_95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/epsilon_95/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/epsi95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/epsi95" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc4apgv15_ba9qgtafhzgbaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4apgv15_ba9qgtafhzgbaw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/probhakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/probhakar/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6660638/epsi95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/6660638/epsi95" height="30" width="40" /></a>
+<a href="https://www.instagram.com/epsilon_95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/epsilon_95/" height="30" width="40" /></a>
+<a href="https://dribbble.com/epsi95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/epsi95" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc4apgv15_ba9qgtafhzgbaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4apgv15_ba9qgtafhzgbaw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,11 +16,11 @@
 
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=epsi95&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=epsi95&theme=dark" width="48%" >
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epsi95&layout=compact)
 
