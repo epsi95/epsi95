@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://epsi95.github.io/my-website/**
 
-- ⚡ Fun fact **Epsilon id close to zero but not zero. Everybody and every little effort counts.**
+- ⚡ Fun fact **Epsilon is close to zero but not zero. Everybody and their every little effort counts.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
