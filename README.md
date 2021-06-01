@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Epsilon is close to zero but not zero. Everybody and their every little effort counts.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
